@@ -1,0 +1,1 @@
+SELECT SUM(surface) FROM `stage`;
